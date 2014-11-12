@@ -1,0 +1,24 @@
+{
+  "name": "backgridjs-total-footer-bower",
+  "version": "0.0.1",
+  "authors": [
+    "Akash A <akash1810@gmail.com>"
+  ],
+  "description": "A wrapper around backgridjs-total-footer (written by Base79).",
+  "keywords": [
+    "backgrid",
+    "backbone",
+    "footer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backgridjs-total-footer": "https://bitbucket.org/base79/backgridjs-total-footer.git#~1.0.3"
+  }
+}
